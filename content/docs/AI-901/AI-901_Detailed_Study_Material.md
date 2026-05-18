@@ -1,5 +1,6 @@
 ---
 title: Részletes Tananyag
+type: docs
 weight: 1
 ---
 # 📘 AI-901: Azure AI Fundamentals Részletes Tananyag

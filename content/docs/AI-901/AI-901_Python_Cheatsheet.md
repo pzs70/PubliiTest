@@ -1,5 +1,6 @@
 ---
 title: Python Cheatsheet
+type: docs
 weight: 3
 ---
 # 🐍 AI-901 Python Cheatsheet - Azure AI SDK alapok

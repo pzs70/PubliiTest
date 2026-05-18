@@ -1,5 +1,6 @@
 ---
 title: Általános Cheatsheet
+type: docs
 weight: 2
 ---
 # 🚀 AI-901 Vizsga Felkészítő "Cheatsheet" - Általános Fogalmak
